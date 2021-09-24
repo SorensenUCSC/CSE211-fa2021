@@ -56,12 +56,12 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Friday, Nov. 19   | Measuring Optimization Impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | paper/project proposals due
-| Monday, Nov. 22    | Measuring Optimization Impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
-| Wednesday, Nov. 24    |  Compiler Fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | paper/project approved
-| Monday, Nov. 29   | Compiler Fuzzing 2          | | [EMI](https://www.vuminhle.com/pdf/pldi14-emi.pdf) |homework 4 due. homework 5 assigned
-| Wednesday, Dec. 1    | Buffer Day (or final project presentations)         | |      
-| Friday, Dec. 3    | Buffer Day (or final project presentations)       | |  |paper review due   
+| Friday, Nov. 19   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | paper/project proposals due
+| Monday, Nov. 22    | measuring optimization impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
+| Wednesday, Nov. 24    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | paper/project approved
+| Monday, Nov. 29   | compiler fuzzing 2          | | [EMI](https://www.vuminhle.com/pdf/pldi14-emi.pdf) |homework 4 due. homework 5 assigned
+| Wednesday, Dec. 1    | buffer day (or final project presentations)         | |      
+| Friday, Dec. 3    | buffer day (or final project presentations)       | |  |paper review due   
 
 ## Final
 
