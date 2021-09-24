@@ -61,7 +61,7 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ## Office Hours:
 
-My room number is E2-299.
+My room number is E2-233.
 
 Office hours will be 2-3 pm on Thursdays. I do not mind having in-person or remote meetings. I will host a Google doc sign up sheet that you can use to sign up. If you don't sign up, I will leave my office door open during these hours when I am available. Because this is a small class, I imagine if you swing by there is a good chance I will be available.
 
