@@ -11,11 +11,11 @@ I will update these references as the course progresses. Please let me know if t
 
 ### Textbooks
 
-There is no required textbook for this class. I will be drawing from several of them as well as academic papers.
+I will not require you to purchase any textbook for this class. However, I will be drawing from several of them throughout the quarter.
 
 The first two modules will draw heavily from [Engineering: A Compiler](https://www.amazon.com/Engineering-Compiler-Keith-Cooper/dp/012088478X) (2011) and the classic [Dragon Book](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811#ace-g6796040015) (2006).
 
 The university library has online copies of EAC available. Here is a link to the course reserve: [link](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025089207404876)
 
-I will try to provide readings from EAC for each lecture. Unfortunately there is no online copy of the Dragon book. If you are interested, let me know and I can lend you my copy.
+I will provide readings from EAC for several of the first lectures and readings from other sources (e.g. academic papers) for later lectures.
 
