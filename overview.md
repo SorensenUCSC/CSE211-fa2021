@@ -53,7 +53,7 @@ _A few classes will be remote due to travel, see the schedule. I will provide Zo
 
 This is a small graduate course and live discussions will be a valuable part of the learning experience. As such, I expect you to make an effort to attend. **Attendance will be 10% of your grade**. I will take role at the beginning of each class.
 
-Please message me if you will miss a lecture to avoid losing attendance credit. You can have up to 3 excused absences. If the normally scheduled date and time will be an issue for you, please let me know ASAP.
+Please message me if you will miss a lecture to avoid losing attendance credit. You can have up to 5 excused absences. If the normally scheduled date and time will be an issue for you, please let me know ASAP.
 
 ## Accessibility
 
