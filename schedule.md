@@ -48,7 +48,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Friday, Nov. 5   | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 | Monday, Nov. 8    | array processing 2        |        | 
 | Wednesday, Nov. 10    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | 
-| Friday, Nov. 12   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  
+| Friday, Nov. 12   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposed
 | Monday, Nov. 15    | DNN languages 1         | |   _TBA_    | homework 3 due. homework 4 assigned
 | Wednesday, Nov. 17    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    |  
 
@@ -56,9 +56,9 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Friday, Nov. 19   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | paper/project proposals due
+| Friday, Nov. 19   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | paper/project proposals approved
 | Monday, Nov. 22    | measuring optimization impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
-| Wednesday, Nov. 24    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | paper/project approved
+| Wednesday, Nov. 24    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | 
 | Monday, Nov. 29   | compiler fuzzing 2          | | [EMI](https://www.vuminhle.com/pdf/pldi14-emi.pdf) |homework 4 due. homework 5 assigned
 | Wednesday, Dec. 1    | buffer day (or final project presentations)         | |      
 | Friday, Dec. 3    | buffer day (or final project presentations)       | |  |paper review due   
