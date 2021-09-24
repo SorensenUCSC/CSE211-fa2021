@@ -35,7 +35,7 @@ This class will be split into 5 modules, each of which are roughly two weeks. Th
 
 * **Module 4: Domain Specific Languages:** We will discuss domain specific languages and how compilers can leverage the domain constraints to perform even more optimizations. Topics may include languages for machine learning and graph applications.
 
-* **Module 5: Optimization Policies:** We will discuss the impact of compiler optimizations and how to determine if optimizations actually provide reliable and portable performance improvements. 
+* **Module 5: Optimizations and Correctness:** We will discuss the impact of compiler optimizations and how how to test that compiler optimizations are implemented correctly.
 
 ## Class Format
 
