@@ -47,6 +47,8 @@ _Protected materials_ will be hosted on the Canvas website that you will need yo
 
 There will be an official forum in the Canvas that you can use to discuss course topics and ask questions. If we want a different forum (slack or discord), I will consider hosting one. We have a small class so I hope we can have lively discussions!
 
+_A few classes will be remote due to travel, see the schedule. I will provide Zoom links on Canvas_
+
 ## Attendance
 
 This is a small graduate course and live discussions will be a valuable part of the learning experience. As such, I expect you to make an effort to attend. **Attendance will be 10% of your grade**. I will take role at the beginning of each class.
@@ -59,9 +61,13 @@ UC Santa Cruz is committed to creating an academic environment that supports its
 
 ## Office Hours:
 
-Office hours will be 3 - 4 pm on Wednesdays. I do not mind having in-person or remote meetings. I will host a Google doc sign up sheet that you can use to sign up. If you don't sign up, I will leave my office door open during these hours when I am available. Because this is a small class, I imagine if you swing by there is a good chance I will be available.
+My room number is E2-299.
+
+Office hours will be 2-3 pm on Thursdays. I do not mind having in-person or remote meetings. I will host a Google doc sign up sheet that you can use to sign up. If you don't sign up, I will leave my office door open during these hours when I am available. Because this is a small class, I imagine if you swing by there is a good chance I will be available.
 
 I will hold additional office hours by appointment. Please don't hesitate to email me!
+
+I will do my best to reply to homework questions and discussions within 24 hours. Do not plan on, or expect help, outside of regular business hours (after 5 pm or weekends)
 
 ## Homework:
 
@@ -70,6 +76,10 @@ There will be one assignment per module, for a total of 5 homeworks.
 I will provide a docker image with an up-to-date version of Ubuntu and a suite of useful software installed. The homework assignments will include a specification of how the assignment must execute. It must execute inside the Docker container to be graded. If you need/want additional software in the Docker image, please just ask! 
 
 With the exception of the final homework assignment, all homeworks will be posted 2 weeks before they are due. The last homework will be posted a week before it is due and will have a reduced workload.
+
+Homeworks are due at midnight on their due date, but as mentioned above, do not plan on help after 5 pm. Late homeworks are marked down 10% per day for up to 3 days, at which point they will not be accepted.
+
+Homework is submitted on Canvas.
 
 ## Tests:
 
