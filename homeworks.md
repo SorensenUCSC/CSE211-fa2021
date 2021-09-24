@@ -61,9 +61,9 @@ Project report due Dec. 9
 
 ## Dates Explained
 
-All paper assignments and final projects must be pre-approved 2 weeks before the last day of class: Nov. 19.
+All paper assignments and final projects must be approved 2 weeks before the last day of class: Nov. 19.
 
-Please submit your proposals a week before then Nov. 15.
+Please submit your proposals a week before then Nov. 12.
 
 For a paper assignment, a proposal is the paper title and a few sentences about why it is interesting for this class. Another option is to ask for a paper. In that case, please provide a few sentences about what you have found interesting in the class so far.
 
