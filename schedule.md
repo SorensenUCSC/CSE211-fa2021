@@ -27,13 +27,13 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Wednesday, Oct. 13     | local value numbering and data flow analysis        |       | EAC Chapter 8.5 and Chapter 9 (up to 9.3); 
 | Friday, Oct. 15     | SSA and homework overview |  | EAC Chapter 9.3
 | Monday, Oct. 18    | SSA construction         |       |  EAC Chapter 9.3, | homework 1 due. homework 2 assigned
-| Wednesday, Oct. 20     |   SSA optimizations       |     |  EAC Chapter 9.3.6 
+| Wednesday, Oct. 20     |   SSA optimizations       |     |  EAC Chapter 9.3.6 | _class will be remote due to OOPLSA_
 
 ### Module 3: Automatic Parallelization
 
 | Date             | Topic    | Slides |  Readings | Notes
 |------------------|----------|--------|----------------|-
-| Friday, Oct. 22   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10
+| Friday, Oct. 22   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10 | _class will be remote due to OOPLSA_
 | Monday, Oct. 25     | Do-all loops         |       | Dragon Book Chapter 11 (first half)
 | Wednesday, Oct. 27     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | midterm assigned
 | Friday, Oct. 29    | safety analysis of Do-all Loops         |      | 
