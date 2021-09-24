@@ -17,5 +17,7 @@ The first two modules will draw heavily from [Engineering: A Compiler](https://w
 
 The university library has online copies of EAC available. Here is a link to the course reserve: [link](https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/epaiir/alma991025089207404876)
 
+If you are interested in the dragon book, let me know and you can borrow my copy.
+
 I will provide readings from EAC for several of the first lectures and readings from other sources (e.g. academic papers) for later lectures.
 
