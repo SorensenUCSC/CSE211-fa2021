@@ -132,7 +132,7 @@ This class has a zero tolerance policy on cheating. Please don't do it. I would 
 
 We are still in the midst of a global pandemic. This quarter will surely have challenges related to this. I hope we can all approach our interactions with empathy and understanding. I will do my best to accommodate the various individual challenges that may arise. Please communicate with me early and often! 
 
-Currently, this is designated as an _in-person_ class. It is **not** a hybrid class, that is, you do not have the option to attend remotely without an approved reason. As explained in the [attendance](attendance) section, I do expect you to plan on primarily attending in person. If you cannot attend in person for reasons related to COVID (e.g. if you or someone close to you gets sick), let me ASAP to discuss accommodations. You will not lose attendance points in these cases and I will do my best to provide lecture materials to you.
+Currently, this is designated as an _in-person_ class. It is **not** a hybrid class, that is, you do not have the option to attend remotely without an approved reason. As explained in the [attendance](#attendance) section, I do expect you to plan on primarily attending in person. If you cannot attend in person for reasons related to COVID (e.g. if you or someone close to you gets sick), let me ASAP to discuss accommodations. You will not lose attendance points in these cases and I will do my best to provide lecture materials to you.
 
 If I am unable to attend (e.g. if I get COVID), then I will aim to teach remotely as long as I am feeling well enough.
 
