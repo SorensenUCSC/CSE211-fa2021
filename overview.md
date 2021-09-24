@@ -94,7 +94,7 @@ The review should roughly be 4 pages double spaced. Please organize it as follow
 - **Illustrative example:** find a small example that you can clearly explain, especially related to the compiler component. This might be a small program and a description of how the compiler transforms the program.
 - **Key results:** what are the important results of this paper and how did the compiler enable them?
 
-Please pre-approve the paper with me. Additionally, I can suggest papers. The reports will be two weeks before the quarter ends. Dates for the paper assignment are summarized [here](homeworks.html#paper-assignments-and-final-projects).
+Please pre-approve the paper with me. Additionally, I can suggest papers. The reports will be due two weeks before the quarter ends. Dates for the paper assignment are summarized [here](homeworks.html#paper-assignments-and-final-projects).
 
 ## Final Project
 
