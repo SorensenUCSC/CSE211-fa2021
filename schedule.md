@@ -35,7 +35,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 |------------------|----------|--------|----------------|-
 | Friday, Oct. 22   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10
 | Monday, Oct. 25     | Do-all loops         |       | Dragon Book Chapter 11 (first half)
-| Wednesday, Oct. 27     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half)
+| Wednesday, Oct. 27     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | midterm assigned
 | Friday, Oct. 29    | safety analysis of Do-all Loops         |      | 
 | Monday, Nov. 1   | implementing parallelism         |       | |  homework 2 due. homework 3 assigned
 | Wednesday, Nov. 3   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) 
