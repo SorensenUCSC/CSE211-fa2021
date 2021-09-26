@@ -11,7 +11,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides |   Reading |  Notes 
 |------------------|----------|--------|----------------|-
-| Friday, Sept. 24     | syllabus and introduction         | | EAC Chapter 1 | 
+| Friday, Sept. 24     | syllabus and introduction         | [slides](CSE211Sept24_fa2021.pdf) | EAC Chapter 1 | 
 | Monday, Sept. 27     |  tokenizing           | | EAC Chapter 2
 | Wednesday Sept. 29     | parsing 1 (CFGs)         |       | 
 | Friday Oct. 1      | parsing 2 (Trees and Ambiguity)         |       | EAC Chapter 3 
