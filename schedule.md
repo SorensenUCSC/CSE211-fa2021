@@ -13,7 +13,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 |------------------|----------|--------|----------------|-
 | Friday, Sept. 24     | syllabus and introduction         | [slides](lectures/CSE211Sept24_fa2021.pdf) | EAC Chapter 1 | 
 | Monday, Sept. 27     |  tokenizing           | [slides](lectures/CSE211Sept27_fa2021.pdf) | EAC Chapter 2
-| Wednesday Sept. 29     | parsing 1 (CFGs)         |       | 
+| Wednesday Sept. 29     | parsing 1 (CFGs)         | [slides](lectures/CSE211Sept29_fa2021.pdf)      | 
 | Friday Oct. 1      | parsing 2 (Trees and Ambiguity)         |       | EAC Chapter 3 
 | Monday Oct. 4    | parsing with derivatives        |   |  parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) | homework 1 assigned
 | Wednesday Oct. 6    | Python Lex and Yacc (PLY)        |   | [PLY docs](https://www.dabeaz.com/ply/)
