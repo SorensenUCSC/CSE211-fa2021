@@ -12,7 +12,7 @@ There will be one homework per module. They will be posted at least two weeks be
 
 ### Module 1: Parsing Overview/Refresher
 
-_Will be posted by: Oct 4._ 
+_download the specification [HERE](homeworks/CSE211Fall2020_assignment1.pdf)
 
 _Due: Oct. 18_
 
