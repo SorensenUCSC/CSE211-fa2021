@@ -17,7 +17,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Friday Oct. 1      | parsing 2 (Trees and Ambiguity)         |  [slides](lectures/CSE211Oct1_fa2021.pdf)     | EAC Chapter 3 
 | Monday Oct. 4    | Python Lex and Yacc (PLY)        | [slides](lectures/CSE211Oct4_fa2021.pdf)  | [PLY docs](https://www.dabeaz.com/ply/) | homework 1 assigned
 | Wednesday Oct. 6 | PLY cont. Symbol Tables | [slides](lectures/CSE211Oct6_fa2021.pdf) | 
-| Friday Oct. 8    | parsing with derivatives        |   |  parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) | 
+| Friday Oct. 8    | parsing with derivatives        | [slides](lectures/CSE211Oct8_fa2021.pdf)  |  parsing with derivatives [paper](https://www.ccs.neu.edu/home/turon/re-deriv.pdf) (first 7 pages) | 
 
 ### Module 2: Flow Analysis
 
