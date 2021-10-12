@@ -23,7 +23,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides | Reading | Notes
 |------------------|----------|--------|----------------|-
-| Monday, Oct. 11     | abstract syntax trees and traversals         |        |  EAC Chapter 5 
+| Monday, Oct. 11     | abstract syntax trees and traversals         | [slides](lectures/CSE211Oct11_fa2021.pdf)       |  EAC Chapter 5 
 | Wednesday, Oct. 13     |  3 address code and local value numbering        |        | EAC Chapter 8 (up to 8.5)
 | Friday, Oct. 15     | local value numbering and data flow analysis        |       | EAC Chapter 8.5 and Chapter 9 (up to 9.3); 
 | Monday, Oct. 18     | SSA and homework overview |  | EAC Chapter 9.3 | homework 1 due. homework 2 assigned
