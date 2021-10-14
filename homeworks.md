@@ -6,13 +6,11 @@ layout: single
 classes: wide
 ---
 
-# Homeworks
-
 There will be one homework per module. They will be posted at least two weeks before they are due. Each homework is worth 8% of your grade.
 
 ### Module 1: Parsing Overview/Refresher
 
-_download the specification [HERE](homeworks/CSE211Fall2020_assignment1.pdf)
+_download the specification [HERE](homeworks/CSE211Fall2020_assignment1.pdf)_
 
 _Due: Oct. 18_
 
