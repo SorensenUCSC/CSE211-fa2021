@@ -10,13 +10,13 @@ There will be one homework per module. They will be posted at least two weeks be
 
 ### Module 1: Parsing Overview/Refresher
 
-_download the specification [HERE](homeworks/CSE211Fall2020_assignment1.pdf)_
+_download the specification [HERE](homeworks/CSE211Fall2021_assignment1.pdf)_
 
 _Due: Oct. 18_
 
 ### Module 2: Flow Analysis
 
-_download the specification [HERE](homeworks/CSE211Fall2020_assignment2.pdf)_
+_download the specification [HERE](homeworks/CSE211Fall2021_assignment2.pdf)_
 
 _Due: Nov. 1_
 
