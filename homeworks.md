@@ -16,7 +16,7 @@ _Due: Oct. 18_
 
 ### Module 2: Flow Analysis
 
-_Will be posted by: Oct. 18_ 
+_download the specification [HERE](homeworks/CSE211Fall2020_assignment2.pdf)_
 
 _Due: Nov. 1_
 
