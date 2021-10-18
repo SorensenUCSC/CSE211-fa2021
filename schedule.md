@@ -27,7 +27,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Wednesday, Oct. 13     |  3 address code and local value numbering        | [slides](lectures/CSE211Oct13_fa2021.pdf)       | EAC Chapter 8 (up to 8.5)
 | Friday, Oct. 15     | local value numbering and data flow analysis        |  [slides](lectures/CSE211Oct15_fa2021.pdf)      | EAC Chapter 8.5 and Chapter 9 (up to 9.3); 
 | Monday, Oct. 18     | Flow analysis (live variable analysis) |  | EAC Chapter 9.3 | homework 1 due. homework 2 assigned
-| Wednesday, Oct. 20    | SSA construction         |       |  EAC Chapter 9.3, | _class will be remote due to OOPLSA_
+| Wednesday, Oct. 20    | Class canceled!         |   Work on homework 2!    |  EAC Chapter 9.3, | 
 | Friday, Oct. 22     |   SSA optimizations       |     |  EAC Chapter 9.3.6 | _class will be remote due to OOPLSA_
 
 ### Module 3: Automatic Parallelization
