@@ -28,40 +28,41 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Friday, Oct. 15     | local value numbering and data flow analysis        |  [slides](lectures/CSE211Oct15_fa2021.pdf)      | EAC Chapter 8.5 and Chapter 9 (up to 9.3); 
 | Monday, Oct. 18     | Flow analysis (live variable analysis) |  [slides](lectures/CSE211Oct18_fa2021.pdf)  | EAC Chapter 9.3 | homework 1 due. homework 2 assigned
 | Wednesday, Oct. 20    | Class canceled!         |   Work on homework 2!    |  EAC Chapter 9.3, | 
-| Friday, Oct. 22     |   SSA optimizations       |     |  EAC Chapter 9.3.6 | _class will be remote due to OOPLSA_
+| Friday, Oct. 22     |   Flow analysis continued       |    [slides](lectures/CSE211Oct22_fa2021.pdf)   |  EAC Chapter 9.3 | _class will be remote due to OOPLSA_
+| Monday, Oct. 25   | Conversion to SSA  |        | EAC Chapter 9 (through the end) | 
+| Wednesday, Oct. 27     | SSA optimizations       |       | EAC Chapter 9 (through the end) | midterm assigned
 
 ### Module 3: Automatic Parallelization
 
 | Date             | Topic    | Slides |  Readings | Notes
 |------------------|----------|--------|----------------|-
-| Monday, Oct. 25   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10 | 
-| Wednesday, Oct. 27     | Do-all loops         |       | Dragon Book Chapter 11 (first half) | midterm assigned
-| Friday, Oct. 29     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | 
-| Monday, Nov. 1    | safety analysis of Do-all Loops         |      | | homework 2 due. homework 3 assigned
-| Wednesday, Nov. 3   | implementing parallelism         |       | |  
-| Friday, Nov. 5   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) 
+| Friday, Oct. 29   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10 | 
+| Monday, Nov. 1     | Do-all loops         |       | Dragon Book Chapter 11 (first half) | midterm assigned
+| Wednesday, Nov. 3     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | 
+| Friday, Nov. 5    | safety analysis of Do-all Loops         |      | | homework 2 due. homework 3 assigned
+| Monday, Nov. 8   | implementing parallelism         |       | |  
+| Wednesday, Nov. 10   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) 
 
 
 ## Module 4: DSLs
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Monday, Nov. 8   | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
-| Wednesday, Nov. 10    | array processing 2        |        | 
-| Friday, Nov. 12    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | paper/project proposed
-| Monday, Nov. 15   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        | homework 3 due. homework 4 assigned 
-| Wednesday, Nov. 17    | DNN languages 1         | |   _TBA_    | 
-| Friday, Nov. 19    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    |  paper/project proposals approved
+| Friday, Nov. 12  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
+| Monday, Nov. 15   | array processing 2        |        | 
+| Wednesday, Nov. 17    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | paper/project proposed
+| Friday, Nov. 19   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        | homework 3 due. homework 4 assigned 
+| Monday, Nov. 22    | DNN languages 1         | |   _TBA_    | 
+| Wednesday, Nov. 24    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    |  paper/project proposals approved
 
 ## Module 5: Optimizations and Correctness
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Monday, Nov. 22   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | 
-| Wednesday, Nov. 24    | measuring optimization impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
-| Monday, Nov. 29    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | homework 4 due. homework 5 assigned
-| Wednesday, Dec. 1   | compiler fuzzing 2          | | [EMI](https://www.vuminhle.com/pdf/pldi14-emi.pdf) |
-| Friday, Dec. 3    | buffer day (or final project presentations)         | |    | paper review due    
+| Monday, Nov. 29   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | 
+| Wednesday, Dec. 1   | measuring optimization impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
+| Friday, Dec. 3    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | homework 4 due. homework 5 assigned
+
 
 ## Final
 
