@@ -30,7 +30,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Wednesday, Oct. 20    | Class canceled!         |   Work on homework 2!    |  EAC Chapter 9.3, | 
 | Friday, Oct. 22     |   Flow analysis continued       |    [slides](lectures/CSE211Oct22_fa2021.pdf)   |  EAC Chapter 9.3 | _class will be remote due to OOPLSA_
 | Monday, Oct. 25   | Conversion to SSA  |  [slides](lectures/CSE211Oct25_fa2021.pdf)      | EAC Chapter 9 (through the end) | 
-| Wednesday, Oct. 27     | SSA optimizations       |       | EAC Chapter 9 (through the end) | midterm assigned
+| Wednesday, Oct. 27     | SSA optimizations       |  [slides](lectures/CSE211Oct27_fa2021.pdf)     | EAC Chapter 9 (through the end) | midterm assigned
 
 ### Module 3: Automatic Parallelization
 
