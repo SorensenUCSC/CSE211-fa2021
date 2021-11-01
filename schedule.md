@@ -36,7 +36,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides |  Readings | Notes
 |------------------|----------|--------|----------------|-
-| Friday, Oct. 29   | instruction level parallelism (ILP)  |        | Dragon Book Chapter 10 | 
+| Friday, Oct. 29   | instruction level parallelism (ILP)  |   [slides](lectures/CSE211Oct29_fa2021.pdf)      | Dragon Book Chapter 10 | 
 | Monday, Nov. 1     | Do-all loops         |       | Dragon Book Chapter 11 (first half) | homework 2 due
 | Wednesday, Nov. 3     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | Midterm due
 | Friday, Nov. 5    | safety analysis of Do-all Loops         |      | |  homework 3 assigned
