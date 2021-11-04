@@ -38,8 +38,8 @@ _Schedule is tentative and topics may change depending on interest and discussio
 |------------------|----------|--------|----------------|-
 | Friday, Oct. 29   | instruction level parallelism (ILP)  |   [slides](lectures/CSE211Oct29_fa2021.pdf)      | Dragon Book Chapter 10 | 
 | Monday, Nov. 1     | Do-all loops         |    [slides](lectures/CSE211Nov1_fa2021.pdf)    | Dragon Book Chapter 11 (first half) | homework 2 due
-| Wednesday, Nov. 3     | reordering loops and blocking        |       |  Dragon Book Chapter 11 (second half) | Midterm due
-| Friday, Nov. 5    | safety analysis of Do-all Loops         |      | |  homework 3 assigned
+| Wednesday, Nov. 3     | safety analysis of Do-all Loops         |  [slides](lectures/CSE211Nov3_fa2021.pdf)       |  Dragon Book Chapter 11 (second half) | homework 3 assigned, and Midterm due
+| Friday, Nov. 5    | reordering loops and blocking         |      | |  
 | Monday, Nov. 8   | implementing parallelism         |       | |  
 | Wednesday, Nov. 10   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) 
 
@@ -50,8 +50,8 @@ _Schedule is tentative and topics may change depending on interest and discussio
 |------------------|----------|--------|----------------|- 
 | Friday, Nov. 12  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 | Monday, Nov. 15   | array processing 2        |        | paper/project proposed
-| Wednesday, Nov. 17    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | 
-| Friday, Nov. 19   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        | homework 3 due. homework 4 assigned.  paper/project proposals approved 
+| Wednesday, Nov. 17    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | homework 3 due. homework 4 assigned. 
+| Friday, Nov. 19   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
 | Monday, Nov. 22    | DNN languages 1         | |   _TBA_    | 
 | Wednesday, Nov. 24    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
 
