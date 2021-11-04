@@ -22,9 +22,9 @@ _Due: Nov. 1_
 
 ### Module 3: Automatic Parallelization
 
-_Will be posted by: Nov. 1_
+_download the specification [HERE](homeworks/CSE211Fall2021_assignment3.pdf)_
 
-_Due: Nov. 15_
+_Due: Nov. 17_
 
 ### Module 4: Parallel Schedules and DAE
 
