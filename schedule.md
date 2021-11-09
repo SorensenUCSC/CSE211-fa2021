@@ -40,28 +40,29 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Monday, Nov. 1     | Do-all loops         |    [slides](lectures/CSE211Nov1_fa2021.pdf)    | Dragon Book Chapter 11 (first half) | homework 2 due
 | Wednesday, Nov. 3     | safety analysis of Do-all Loops         |  [slides](lectures/CSE211Nov3_fa2021.pdf)       |  Dragon Book Chapter 11 (second half) | homework 3 assigned, and Midterm due
 | Friday, Nov. 5    | reordering loops and blocking         |  [slides](lectures/CSE211Nov5_fa2021.pdf)      | |  
-| Monday, Nov. 8   | implementing parallelism         |       | |  
-| Wednesday, Nov. 10   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) 
+| Monday, Nov. 8   | implementing parallelism         |   [slides](lectures/CSE211Nov8_fa2021.pdf)    | |  
+| Wednesday, Nov. 10   |Compiling relaxed memory models         |        |  
+| Friday, Nov. 12   | Class canceled!         |        | 
+| Monday, Nov. 15   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | paper/project proposed
 
 
 ## Module 4: DSLs
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Friday, Nov. 12  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
-| Monday, Nov. 15   | array processing 2        |        | paper/project proposed
-| Wednesday, Nov. 17    |  graph processing 1        | |[GraphIt](https://dl.acm.org/doi/10.1145/3276491)       | homework 3 due. homework 4 assigned. 
-| Friday, Nov. 19   | graph processing 2          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
-| Monday, Nov. 22    | DNN languages 1         | |   _TBA_    | 
-| Wednesday, Nov. 24    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
+| Wednesday, Nov. 17  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due
+| Friday, Nov. 19   | array processing 2        |        | 
+| Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
+| Wednesday, Nov. 24   | graph processing          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
+| Monday, Nov. 29    | DNN languages 1         | |   _TBA_    | 
+| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
 
 ## Module 5: Optimizations and Correctness
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Monday, Nov. 29   | measuring optimization impact 1     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | 
-| Wednesday, Dec. 1   | measuring optimization impact 2         |  | [OpenCL IrGL](https://users.soe.ucsc.edu/~tsorensen/files/iiswc2019.pdf)      | 
-| Friday, Dec. 3    |  compiler fuzzing 1      | |[CSmith](https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf)     | homework 4 due. Paper review due
+| Friday, Dec. 3  | measuring optimization impact     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | homework 4 due. Paper review due
+
 
 ## Final
 
