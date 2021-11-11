@@ -41,7 +41,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Wednesday, Nov. 3     | safety analysis of Do-all Loops         |  [slides](lectures/CSE211Nov3_fa2021.pdf)       |  Dragon Book Chapter 11 (second half) | homework 3 assigned, and Midterm due
 | Friday, Nov. 5    | reordering loops and blocking         |  [slides](lectures/CSE211Nov5_fa2021.pdf)      | |  
 | Monday, Nov. 8   | implementing parallelism         |   [slides](lectures/CSE211Nov8_fa2021.pdf)    | |  
-| Wednesday, Nov. 10   |Compiling relaxed memory models         |        |  
+| Wednesday, Nov. 10   |Compiling relaxed memory models         |   [slides](lectures/CSE211Nov10_fa2021.pdf)     |  
 | Friday, Nov. 12   | Class canceled!         |        | 
 | Monday, Nov. 15   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | paper/project proposed
 
