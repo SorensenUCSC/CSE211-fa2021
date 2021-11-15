@@ -55,7 +55,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
 | Wednesday, Nov. 24   | graph processing          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
 | Monday, Nov. 29    | DNN languages 1         | |   _TBA_    | 
-| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | homework 4 due
+| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
 
 ## Module 5: Optimizations and Correctness
 
