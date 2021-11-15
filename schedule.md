@@ -50,12 +50,12 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Wednesday, Nov. 17  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due
+| Wednesday, Nov. 17  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due, homework 4 assigned
 | Friday, Nov. 19   | array processing 2        |        | 
 | Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
 | Wednesday, Nov. 24   | graph processing          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
 | Monday, Nov. 29    | DNN languages 1         | |   _TBA_    | 
-| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
+| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | homework 4 due
 
 ## Module 5: Optimizations and Correctness
 
