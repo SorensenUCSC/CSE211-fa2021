@@ -43,7 +43,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Monday, Nov. 8   | implementing parallelism         |   [slides](lectures/CSE211Nov8_fa2021.pdf)    | |  
 | Wednesday, Nov. 10   |Compiling relaxed memory models         |   [slides](lectures/CSE211Nov10_fa2021.pdf)     |  
 | Friday, Nov. 12   | Class canceled!         |        | 
-| Monday, Nov. 15   | decoupled access/execute         |        |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | paper/project proposed
+| Monday, Nov. 15   | decoupled access/execute         |   [slides](lectures/CSE211Nov15_fa2021.pdf)     |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | paper/project proposed
 
 
 ## Module 4: DSLs
