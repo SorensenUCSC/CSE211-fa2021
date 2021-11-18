@@ -50,7 +50,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Wednesday, Nov. 17  | array processing 1 | | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due, homework 4 assigned
+| Wednesday, Nov. 17  | array processing 1 |[slides](lectures/CSE211Nov17_fa2021.pdf) | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due, homework 4 assigned
 | Friday, Nov. 19   | array processing 2        |        | 
 | Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
 | Wednesday, Nov. 24   | graph processing          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
