@@ -26,17 +26,12 @@ _download the specification [HERE](homeworks/CSE211Fall2021_assignment3.pdf)_
 
 _Due: Nov. 17_
 
-### Module 4: Parallel Schedules and DAE
+### Module 4:DSLs
 
-_Will be posted by: Nov. 15_ 
+_download the specification [HERE](homeworks/CSE211Fall2021_assignment4.pdf)_
 
-_Due: Nov. 29_
+_Due: Dec. 3_
 
-### Module 5 Optimizations and Correctness
-
-_Will be posted by: Nov. 29_ 
-
-_Due: Dec. 9_
 
 # Paper Assignments and Final Projects
 
