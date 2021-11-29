@@ -10,4 +10,4 @@ Example blog post
 
 Example image
 
-[image example](graphviz.png)
+![image example](graphviz.png)
