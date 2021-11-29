@@ -7,3 +7,5 @@ classes: wide
 ---
 
 The final project reports that opted to appear as a blog post will appear here.
+
+[projects/example/example.html]
