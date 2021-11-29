@@ -46,22 +46,22 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Monday, Nov. 15   | decoupled access/execute         |   [slides](lectures/CSE211Nov15_fa2021.pdf)     |  [DAE paper](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1982-Decoupled-Access-Execute-Computer-Architectures.pdf) | paper/project proposed
 
 
-## Module 4: DSLs
+## Module 4: DSLs and Optimizations
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
 | Wednesday, Nov. 17  | array processing 1 |[slides](lectures/CSE211Nov17_fa2021.pdf) | [Halide](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | homework 3 due, homework 4 assigned
-| Friday, Nov. 19   | array processing 2        |        | 
+| Friday, Nov. 19   | array processing 2        |  | [slides](lectures/CSE211Nov19_fa2021.pdf)      | 
 | Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
-| Wednesday, Nov. 24   | graph processing          | | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
-| Monday, Nov. 29    | DNN languages 1         | |   _TBA_    | 
-| Wednesday, Dec. 1    | DNN languages 2       | |   [TVM](https://arxiv.org/abs/1802.04799)    | 
+| Wednesday, Nov. 24   | graph processing          | [slides](lectures/CSE211Nov24_fa2021.pdf)  | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
+| Monday, Nov. 29    | optimization impact         | |   [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf)    | 
 
 ## Module 5: Optimizations and Correctness
 
 | Date             | Topic    | Slides  | Readings | Notes
 |------------------|----------|--------|----------------|- 
-| Friday, Dec. 3  | measuring optimization impact     |        | [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf) | homework 4 due. Paper review due
+| Wednesday, Dec. 1  | Class canceled to work on final project or study     |        |  | 
+| Friday, Dec. 3  | final project presentations     |        |  | homework 4 due. Paper review due, class will be extended an optional hour
 
 
 ## Final
