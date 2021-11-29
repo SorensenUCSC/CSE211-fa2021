@@ -11,3 +11,5 @@ main:
     url: /references.html
   - title: "Docker Setup"
     url: /docker.html
+  - title: "Final Project Blog"
+    url: /projects.html
