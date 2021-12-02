@@ -9,3 +9,4 @@ classes: wide
 The final project reports that opted to appear as a blog post will appear here.
 
 [link](projects/example/example.html)
+[Apple M1 Architecture Investigation by Matt Boisvert](projects/matthew-boisvert/m1-performance.md)
