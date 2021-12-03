@@ -1,4 +1,4 @@
-# Rewriting the Scenic Compiler#
+# Rewriting the Scenic Compiler
 By Eric Vin
 
 ### Scenic Intro
