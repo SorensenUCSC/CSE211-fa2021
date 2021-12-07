@@ -54,7 +54,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Friday, Nov. 19   | array processing 2        | [slides](lectures/CSE211Nov19_fa2021.pdf) |       | 
 | Monday, Nov. 22    |  Guest Lecture: [Aviral Goel](https://aviral.io/)        | |
 | Wednesday, Nov. 24   | graph processing          | [slides](lectures/CSE211Nov24_fa2021.pdf)  | [IrGL](https://cs.rochester.edu/~sree/papers/sree-oopsla2016.pdf)        |  paper/project proposals approved 
-| Monday, Nov. 29    | optimization impact         | |   [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf)    | 
+| Monday, Nov. 29    | optimization impact         | [slides](lectures/CSE211Nov29_fa2021.pdf)|   [Stabilizer](https://people.cs.umass.edu/~emery/pubs/stabilizer-asplos13.pdf)    | 
 
 ## Module 5: Final Projects
 
