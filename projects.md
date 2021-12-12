@@ -11,3 +11,5 @@ classes: wide
 [Apple M1 Architecture Investigation](projects/matthew-boisvert/m1-performance.md) by Matt Boisvert
 
 [Data-Flow Analysis Visualizer](projects/data-flow-analysis-visualizer/index.md) by Shun Kashiwa
+
+[Rewriting the Scenic Compiler](projects/ScenicRewrite/ScenicRewrite.md) by Eric Vin
