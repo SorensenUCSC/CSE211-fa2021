@@ -13,3 +13,5 @@ classes: wide
 [Data-Flow Analysis Visualizer](projects/data-flow-analysis-visualizer/index.md) by Shun Kashiwa
 
 [Rewriting the Scenic Compiler](projects/ScenicRewrite/ScenicRewrite.md) by Eric Vin
+
+[Solving Sudoku with Z3](projects/SudokuZ3/Z3.md) by Alec Siegel
