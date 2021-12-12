@@ -15,3 +15,5 @@ classes: wide
 [Rewriting the Scenic Compiler](projects/ScenicRewrite/ScenicRewrite.md) by Eric Vin
 
 [Solving Sudoku with Z3](projects/SudokuZ3/Z3.md) by Alec Siegel
+
+[Using Csmith to Find Compiler Bugs](projects/csmith/report.pdf) by Kai Tamkun
