@@ -1,4 +1,13 @@
-﻿# Hanabi Game Compiler
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+title: "Overview"
+layout: single
+classes: wide
+---
+
+# Hanabi Game Compiler
 
 ## Hanabi Background
 Hanabi is a 2-6 player collaborative card game that is commonly played [online](https://hanab.live). 
