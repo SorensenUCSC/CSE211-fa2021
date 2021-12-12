@@ -4,12 +4,6 @@ classes: wide
 
 # Apple M1 Architecture Investigation
 
-![enter image description here](https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-m1-chip-graphic_11102020_big.jpg.large_2x.jpg)
-<figcaption align = "center">
-Apple's M1 Chip Logo
-(<a href="https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/">Source</a>)
-</figcaption>
-
 Author: Matthew Boisvert
 ## Background
 Following the end of Moore’s Law and Dennard Scaling, computer engineers have pursued  fundamental changes to the traditional SMP architecture that programmers have used as a mental model for parallel programming for years. First, chip companies focused on scaling to multi-node NUMA systems to decrease cache thrashing and improve memory access latencies. Then, to further increase performance and maximize battery life, they targeted the fine-grained characteristics of application workloads and shifted their attention towards heterogeneous designs and architectures. In 2011, ARM introduced their [big.LITTLE architecture](https://www.arm.com/why-arm/technologies/big-little) which combined the energy efficiency of small relaxed-memory cores with the speed of power cores running at a higher frequency. This heterogeneity proved to be extremely useful for balancing performance with battery life and power dissipation concerns, so much so that [ARM chips have been integrated into 95% of today's premium smartphones](https://www.arm.com/solutions/mobile-computing/smartphones). Over time, other chip manufacturers began to follow this trend as well — using hardware specialization as a means to target performance goals for specific workloads rather than producing workload-agnostic general purpose processors.
