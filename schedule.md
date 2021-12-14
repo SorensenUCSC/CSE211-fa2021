@@ -32,7 +32,7 @@ _Schedule is tentative and topics may change depending on interest and discussio
 | Monday, Oct. 25   | Conversion to SSA  |  [slides](lectures/CSE211Oct25_fa2021.pdf)      | EAC Chapter 9 (through the end) | 
 | Wednesday, Oct. 27     | SSA optimizations       |  [slides](lectures/CSE211Oct27_fa2021.pdf)     | EAC Chapter 9 (through the end) | midterm assigned
 
-### Module 3: Automatic Parallelization
+### Module 3: Parallelization
 
 | Date             | Topic    | Slides |  Readings | Notes
 |------------------|----------|--------|----------------|-
