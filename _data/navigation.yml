@@ -5,8 +5,6 @@ main:
     url: /overview.html
   - title: "Schedule"
     url: /schedule.html
-  - title: "Homeworks"
-    url: /homeworks.html
   - title: "References"
     url: /references.html
   - title: "Docker Setup"
